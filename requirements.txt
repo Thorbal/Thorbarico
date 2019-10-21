@@ -19,7 +19,7 @@ idna==2.7
 jsondatabase==0.1.3
 luckydonald-utils==0.48
 msgpack==0.5.6
-nltk==3.2.5
+nltk==3.4.5
 oauthlib==2.0.1
 ordereddict==1.1
 packaging==16.8
